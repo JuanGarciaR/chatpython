@@ -11,4 +11,6 @@ Mediafire: http://www.mediafire.com/download.php?b78vmhq6s5ld6wh
 #### Linux
 Mediafire: http://www.mediafire.com/download.php?v26rtr2s64tbjxa
 
+Desarrollo
+----------
 Desarrollado por Samuel Burbano Ramos
